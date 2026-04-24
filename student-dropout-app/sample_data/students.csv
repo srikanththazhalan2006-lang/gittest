@@ -1,0 +1,31 @@
+student_id,name,attendance_rate,assignment_score,exam_score,participation_score,family_income_level,previous_backlogs,semester,dropout_reason,dropped_out
+S001,Arjun Mehta,82,76,71,68,medium,0,3,,0
+S002,Priya Sharma,45,38,32,30,low,4,2,financial difficulty,1
+S003,Rohan Verma,91,88,85,90,high,0,5,,0
+S004,Sneha Patel,60,55,48,50,medium,2,3,academic pressure,1
+S005,Karan Singh,78,72,69,74,medium,1,4,,0
+S006,Anjali Nair,33,28,24,22,low,5,1,family issues,1
+S007,Vikram Rao,88,84,80,85,high,0,6,,0
+S008,Meera Iyer,55,50,44,48,low,3,2,financial difficulty,1
+S009,Aditya Kumar,92,90,88,91,high,0,7,,0
+S010,Divya Reddy,70,65,60,62,medium,1,3,,0
+S011,Suresh Babu,40,35,30,28,low,6,1,lost interest,1
+S012,Lakshmi Devi,85,80,77,79,medium,0,4,,0
+S013,Rahul Gupta,63,58,52,55,medium,2,3,,0
+S014,Pooja Mishra,38,30,26,25,low,5,2,health issues,1
+S015,Nikhil Joshi,76,70,66,68,medium,1,4,,0
+S016,Kavitha Nair,95,92,90,93,high,0,6,,0
+S017,Sanjay Dubey,42,36,31,29,low,4,2,relocation,1
+S018,Ananya Bose,80,75,72,76,medium,0,5,,0
+S019,Ramesh Pillai,50,44,39,40,low,3,2,financial difficulty,1
+S020,Swati Tiwari,87,83,79,82,high,0,5,,0
+S021,Deepak Yadav,35,29,22,20,low,7,1,family issues,1
+S022,Harini Suresh,74,68,63,67,medium,1,3,,0
+S023,Manish Agarwal,58,52,46,49,medium,2,3,academic pressure,1
+S024,Bhavna Choudhary,89,86,82,87,high,0,6,,0
+S025,Ajay Pandey,48,41,36,35,low,4,2,lost interest,1
+S026,Ritu Sharma,83,78,74,77,medium,0,4,,0
+S027,Sunil Khanna,67,61,57,60,medium,1,3,,0
+S028,Madhuri Patil,31,25,20,18,low,6,1,health issues,1
+S029,Gopal Krishna,93,89,87,90,high,0,7,,0
+S030,Farhan Sheikh,71,66,62,64,medium,1,4,,0

@@ -1,0 +1,11 @@
+student_id,name,attendance_rate,assignment_score,exam_score,participation_score,family_income_level,previous_backlogs,semester,dropout_reason,dropped_out
+S051,Uday,88,97,85,95,medium,1,4,,0
+S052,Varsha,79,95,84,83,high,2,3,,0
+S053,Wasim,51,70,57,44,low,6,1,Family Responsibility,1
+S054,Xenia,86,84,88,91,high,2,3,,0
+S055,Yash,93,70,94,84,low,0,1,,0
+S056,Zara,54,57,76,36,medium,4,8,Family Responsibility,1
+S057,Advik,80,86,75,88,medium,1,1,,0
+S058,Bhoomi,95,72,82,88,medium,1,2,,0
+S059,Chirag,70,58,58,49,high,4,1,Financial Issues,1
+S060,Deepa,92,94,71,80,low,1,7,,0

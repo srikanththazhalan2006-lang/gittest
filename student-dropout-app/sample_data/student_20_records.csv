@@ -1,0 +1,21 @@
+student_id,name,attendance_rate,assignment_score,exam_score,participation_score,family_income_level,previous_backlogs,semester,dropout_reason,dropped_out
+S001,Arun,66,61,74,85,medium,2,8,,0
+S002,Beena,75,79,71,60,medium,3,1,,0
+S003,Charan,92,77,81,33,low,6,3,Academic Stress,1
+S004,Divya,79,60,77,80,low,2,3,,0
+S005,Eshan,84,96,86,77,low,0,2,,0
+S006,Farah,46,69,77,46,medium,5,8,Academic Stress,1
+S007,Gokul,74,84,92,67,high,3,5,,0
+S008,Harini,65,44,72,80,medium,6,8,Financial Issues,1
+S009,Irfan,67,86,84,55,low,1,7,,0
+S010,Janani,90,62,73,68,high,0,5,,0
+S011,Karthik,50,45,75,60,medium,5,4,Health Issues,1
+S012,Lavanya,97,90,68,96,low,0,8,,0
+S013,Manoj,89,79,71,92,medium,3,7,,0
+S014,Nisha,89,61,47,38,low,5,2,Low Attendance,1
+S015,Omkar,68,94,94,62,medium,1,2,,0
+S016,Priya,81,93,63,73,high,1,5,,0
+S017,Qadir,48,48,64,34,high,5,4,Family Responsibility,1
+S018,Ritika,78,89,76,67,medium,2,2,,0
+S019,Sanjay,65,75,94,86,medium,3,2,,0
+S020,Tejas,74,49,35,46,medium,3,6,Health Issues,1
