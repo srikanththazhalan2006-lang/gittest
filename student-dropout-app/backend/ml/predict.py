@@ -79,3 +79,5 @@ def invalidate_cache():
     global _model, _scaler
     _model = None
     _scaler = None
+print("hi da mavaney")
+
